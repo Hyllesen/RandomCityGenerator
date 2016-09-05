@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+  <City ID="1" Name="Ashens" Population="102" Type="Village" Wealth="Low"
+        History="A small pigfarming village that was founded 300 years ago."/>
+  
+  <City ID="2" Name="Unboxing" Population="10 million" Type="Metropolis" Wealth="Low"
+        History="A small pigfarming village that was founded 300 years ago."/>
+
+  <City ID="3" Name="Neo" Population="102" Type="Village" Wealth="Low"
+        History="A small pigfarming village that was founded 300 years ago."/>
+</Cities>
